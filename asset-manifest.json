@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/android-addict/static/css/main.093a2c83.chunk.css",
-    "main.js": "/android-addict/static/js/main.f936650b.chunk.js",
-    "main.js.map": "/android-addict/static/js/main.f936650b.chunk.js.map",
+    "main.js": "/android-addict/static/js/main.b68eece3.chunk.js",
+    "main.js.map": "/android-addict/static/js/main.b68eece3.chunk.js.map",
     "runtime-main.js": "/android-addict/static/js/runtime-main.0d16b131.js",
     "runtime-main.js.map": "/android-addict/static/js/runtime-main.0d16b131.js.map",
-    "static/js/2.6a1be812.chunk.js": "/android-addict/static/js/2.6a1be812.chunk.js",
-    "static/js/2.6a1be812.chunk.js.map": "/android-addict/static/js/2.6a1be812.chunk.js.map",
+    "static/js/2.e8cb8a89.chunk.js": "/android-addict/static/js/2.e8cb8a89.chunk.js",
+    "static/js/2.e8cb8a89.chunk.js.map": "/android-addict/static/js/2.e8cb8a89.chunk.js.map",
     "index.html": "/android-addict/index.html",
     "static/css/main.093a2c83.chunk.css.map": "/android-addict/static/css/main.093a2c83.chunk.css.map",
-    "static/js/2.6a1be812.chunk.js.LICENSE.txt": "/android-addict/static/js/2.6a1be812.chunk.js.LICENSE.txt",
+    "static/js/2.e8cb8a89.chunk.js.LICENSE.txt": "/android-addict/static/js/2.e8cb8a89.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/android-addict/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0d16b131.js",
-    "static/js/2.6a1be812.chunk.js",
+    "static/js/2.e8cb8a89.chunk.js",
     "static/css/main.093a2c83.chunk.css",
-    "static/js/main.f936650b.chunk.js"
+    "static/js/main.b68eece3.chunk.js"
   ]
 }
