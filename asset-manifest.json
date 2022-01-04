@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/android-addict/static/css/main.093a2c83.chunk.css",
-    "main.js": "/android-addict/static/js/main.84068fe4.chunk.js",
-    "main.js.map": "/android-addict/static/js/main.84068fe4.chunk.js.map",
+    "main.js": "/android-addict/static/js/main.9d50ec4f.chunk.js",
+    "main.js.map": "/android-addict/static/js/main.9d50ec4f.chunk.js.map",
     "runtime-main.js": "/android-addict/static/js/runtime-main.0d16b131.js",
     "runtime-main.js.map": "/android-addict/static/js/runtime-main.0d16b131.js.map",
     "static/js/2.e8cb8a89.chunk.js": "/android-addict/static/js/2.e8cb8a89.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.0d16b131.js",
     "static/js/2.e8cb8a89.chunk.js",
     "static/css/main.093a2c83.chunk.css",
-    "static/js/main.84068fe4.chunk.js"
+    "static/js/main.9d50ec4f.chunk.js"
   ]
 }
